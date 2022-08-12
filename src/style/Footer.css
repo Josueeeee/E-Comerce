@@ -1,0 +1,23 @@
+.footer-content{
+    padding: 1rem;
+    background: #F85555;
+    margin-top: 1rem;
+    text-align: center;
+}
+.footer-content h3{
+    color: white;
+    margin: 0;
+}
+.footer-content p{
+    color: white;
+    margin: 0;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+}
+.footer-content a {
+    color: white;
+    margin: 1rem;
+}
